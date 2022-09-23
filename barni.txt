@@ -1,0 +1,5 @@
+-3 OLDAL
+-MINDENHOVA NAVBAR ÉS FOOTER
+-FÕOLDAL(CAROUSEL FÖNTRE, NEUMANN RÖVID ÉLETRAJZA, FONTOS LINKEK, ISKOLA PROFILJA)
+-2. OLDAL(VAÁZLATOS ÉPÜLETBEMUTATÁS, CARD-OKKAL AZ ISKOLA TERMEI, 3 LINK BUTTONSZERÛEN => HIVATKOZVA DOLGOKRA, carousellel térképek)
+-3.oldal(az iskolában folyó oktatás vázlatosan, cardokkal tantárgyak csoportokra bontva(divekbe és azon belül cardokkal),  
