@@ -2,3 +2,7 @@ body{
    background-color: aqua;
    color: black;
 }
+hr{
+   border-radius: 0%;
+   border: 0cm;
+}
