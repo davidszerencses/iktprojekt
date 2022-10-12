@@ -6,3 +6,9 @@ hr{
    border-radius: 0%;
    border: 0cm;
 }
+.carousel-item{
+   color: black;
+   background-color: black;
+   
+   height: 800px;
+}
