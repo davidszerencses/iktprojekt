@@ -8,7 +8,13 @@ hr{
 }
 .img-fluid{
    height: 720px;
+   text-align: center;
+   image-rendering: optimizeQuality;
+   padding: 2;
 }
 footer{
    text-align: center;
+}
+.fou{
+   text-align: left;
 }
