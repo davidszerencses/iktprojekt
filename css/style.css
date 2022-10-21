@@ -1,6 +1,6 @@
 body{
-   background-color: aqua;
-   color: black;
+   background-image: url(../img/backgorund.png);
+    color: black;
 }
 hr{
    border-radius: 0%;
@@ -16,5 +16,14 @@ footer{
    text-align: center;
 }
 .fou{
-   text-align: left;
+   text-align: center;
+}
+#card{
+   display: flex;
+   justify-content: center;
+}
+#ig{
+   color: black;
+   background-color: red;
+
 }
